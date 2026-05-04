@@ -1,19 +1,19 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ZZCCFmqa_Zw2fWgyKCjG">
-    <mxGraphModel dx="1099" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1099" dy="1568" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CAp1oOxNwufO_933I_5e-6" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;gradientColor=none;flipV=0;legacyAnchorPoints=0;flipH=1;" value="Kissena Bakery - Revenue Cycle ( Order - to - Cash)" vertex="1">
+        <mxCell id="CAp1oOxNwufO_933I_5e-6" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;flipV=0;legacyAnchorPoints=0;flipH=1;fontFamily=Verdana;labelBackgroundColor=none;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Kissena Bakery - Revenue Cycle ( Order - to - Cash)" vertex="1">
           <mxGeometry height="730" width="690" x="140" y="-780" as="geometry" />
         </mxCell>
-        <mxCell id="CAp1oOxNwufO_933I_5e-7" parent="CAp1oOxNwufO_933I_5e-6" style="swimlane;startSize=20;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Sales Department" vertex="1">
+        <mxCell id="CAp1oOxNwufO_933I_5e-7" parent="CAp1oOxNwufO_933I_5e-6" style="swimlane;startSize=20;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontFamily=Verdana;" value="Sales Department" vertex="1">
           <mxGeometry height="710" width="230" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="CAp1oOxNwufO_933I_5e-8" parent="CAp1oOxNwufO_933I_5e-6" style="swimlane;startSize=20;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" value="Warheouse Department" vertex="1">
+        <mxCell id="CAp1oOxNwufO_933I_5e-8" parent="CAp1oOxNwufO_933I_5e-6" style="swimlane;startSize=20;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;fontFamily=Verdana;" value="Warheouse Department" vertex="1">
           <mxGeometry height="710" width="230" x="230" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="CAp1oOxNwufO_933I_5e-9" parent="CAp1oOxNwufO_933I_5e-6" style="swimlane;startSize=20;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;swimlaneFillColor=none;" value="Billing/Accounts Recievable" vertex="1">
+        <mxCell id="CAp1oOxNwufO_933I_5e-9" parent="CAp1oOxNwufO_933I_5e-6" style="swimlane;startSize=20;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;swimlaneFillColor=none;gradientColor=none;fontFamily=Verdana;" value="Billing/Accounts Recievable" vertex="1">
           <mxGeometry height="710" width="230" x="460" y="20" as="geometry" />
         </mxCell>
       </root>
