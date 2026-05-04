@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="ZZCCFmqa_Zw2fWgyKCjG">
-    <mxGraphModel dx="934" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="light-dark(#FFFFFF,#99CCFF)" math="0" shadow="0">
+    <mxGraphModel dx="1099" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CAp1oOxNwufO_933I_5e-6" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;gradientColor=none;flipV=0;legacyAnchorPoints=0;flipH=1;" value="Kissena Bakery - Revenue Cycle ( Order - to - Cash)" vertex="1">
+          <mxGeometry height="710" width="690" x="170" y="-200" as="geometry" />
+        </mxCell>
+        <mxCell id="CAp1oOxNwufO_933I_5e-7" parent="CAp1oOxNwufO_933I_5e-6" style="swimlane;startSize=20;html=1;" value="Sales Department" vertex="1">
+          <mxGeometry height="690" width="230" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CAp1oOxNwufO_933I_5e-8" parent="CAp1oOxNwufO_933I_5e-6" style="swimlane;startSize=20;html=1;" value="Lane 2" vertex="1">
+          <mxGeometry height="690" width="230" x="230" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CAp1oOxNwufO_933I_5e-9" parent="CAp1oOxNwufO_933I_5e-6" style="swimlane;startSize=20;html=1;" value="&lt;font&gt;Lane 3&lt;/font&gt;" vertex="1">
+          <mxGeometry height="690" width="230" x="460" y="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
