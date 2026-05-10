@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Page 1" id="ZZCCFmqa_Zw2fWgyKCjG">
-    <mxGraphModel dx="1245" dy="2513" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="2378" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CAp1oOxNwufO_933I_5e-6" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;flipV=0;legacyAnchorPoints=0;flipH=0;fontFamily=Verdana;labelBackgroundColor=none;fillStyle=solid;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Kissena Bakery - Revenue Cycle (Order to cash)" vertex="1">
-          <mxGeometry height="940" width="712" x="60" y="-940" as="geometry" />
+          <mxGeometry height="940" width="712" x="216" y="-984" as="geometry" />
         </mxCell>
         <mxCell id="CAp1oOxNwufO_933I_5e-7" parent="CAp1oOxNwufO_933I_5e-6" style="swimlane;startSize=20;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontFamily=Verdana;" value="Sales Department" vertex="1">
           <mxGeometry height="920" width="362" y="20" as="geometry" />
@@ -113,11 +113,17 @@
         <mxCell id="u5vqa4UqSNBvMj419kEl-50" edge="1" parent="CAp1oOxNwufO_933I_5e-6" source="u5vqa4UqSNBvMj419kEl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#393C56;" target="u5vqa4UqSNBvMj419kEl-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fN9xhG1RnwdY94FUiAnI-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#314354;fontColor=#ffffff;fillColor=#647687;dashed=1;dashPattern=1 2;align=left;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Control activity CA-01&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;blockquote data-path-to-node=&quot;5&quot;&gt;&lt;p data-path-to-node=&quot;5,0&quot; style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;This control serves as a filter to prevent the warehouse from processing &lt;font style=&quot;&quot;&gt;orders that might later be canceled due to payment issues. It protects the company’s cash flow by filtering out&lt;/font&gt; high-risk transactions before any inventory is committed.&lt;/font&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;h3 data-path-to-node=&quot;6&quot;&gt;&lt;/h3&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="264" width="168" x="12" y="-756" as="geometry" />
+        </mxCell>
+        <mxCell id="fN9xhG1RnwdY94FUiAnI-8" edge="1" parent="1" source="u5vqa4UqSNBvMj419kEl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.981;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#393C56;startArrow=none;startFill=0;strokeColor=default;dashed=1;endArrow=none;endFill=0;" target="fN9xhG1RnwdY94FUiAnI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="XyyuE04niRJhso07mfs9" name="Page 2">
-    <mxGraphModel dx="934" dy="1460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
